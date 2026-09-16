@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="vale_logo.png" alt="Vale Technology" width="180">
+
 # Vale Technology
 
 ### Technology built around real-world needs.
@@ -8,6 +10,7 @@ Software, systems, and digital solutions developed and maintained by the
 **Vale Technology** team in South Africa.
 
 </div>
+
 
 ---
 
